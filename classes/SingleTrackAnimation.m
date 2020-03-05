@@ -1,7 +1,7 @@
 %------------------------------------------------------------------
 % Programed by: 
 %   - Lucas Rath (lucasrm25@gmail.com)
-%   - 
+%   - Dimitrios Gkoutzos (dimitrios.gk@gmx.de)
 %   -
 
 %   Generate Animation for the main_singletrack.m script
