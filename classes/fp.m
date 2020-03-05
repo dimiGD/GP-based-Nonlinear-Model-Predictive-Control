@@ -1,7 +1,7 @@
 %------------------------------------------------------------------
 % Programed by: 
 %   - Lucas Rath (lucasrm25@gmail.com, https://github.com/lucasrm25)
-%   - 
+%   - Dimitrios Gkoutzos (dimitrios.gk@gmx.de)
 %   -
 
 %   Generate fancy plots (fp)
